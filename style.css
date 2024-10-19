@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    padding: 75px 212px;
+    background-color: #f4f1f1;
+}
+
+p {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #333333;
+    font-family: "Raleway", sans-serif;
+
+}
+
+ img {
+    width: 100%;
+    border-radius: 20px;
+}
+
+ h1 {
+   margin-top: 20px ;
+    font-family: "Open Sans", sans-serif;
+    margin-bottom: 15px;
+}
+ h3 {
+    color: red;
+    font-family: "Open Sans", sans-serif;
+ }
+
+ .list {
+    color: blue;
+    margin-top: px;
+ }
+
+ .good-for h4 {
+ font-family: "Open Sans", sans-serif;
+
+}
+
+.destiny2 img {
+margin-top:30px;
+}
+
+.destiny2 ul {
+ margin-bottom: 50px;
+}
+
+ footer {
+ text-align: center;
+ }
